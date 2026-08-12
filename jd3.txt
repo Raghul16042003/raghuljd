@@ -1,0 +1,8 @@
+import java
+class jd
+{
+    int A=10;
+    int B=29;
+    c=A+B;
+    System.out.println(+c);
+}
